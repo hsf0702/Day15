@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_service的生命周期/1_service的生命周期.iml" filepath="$PROJECT_DIR$/1_service的生命周期/1_service的生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_电话监听器/2_电话监听器.iml" filepath="$PROJECT_DIR$/2_电话监听器/2_电话监听器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_特殊广播接收者/3_特殊广播接收者.iml" filepath="$PROJECT_DIR$/3_特殊广播接收者/3_特殊广播接收者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_办证/4_办证.iml" filepath="$PROJECT_DIR$/4_办证/4_办证.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_百度音乐盒/5_百度音乐盒.iml" filepath="$PROJECT_DIR$/5_百度音乐盒/5_百度音乐盒.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_远程服务/6_远程服务.iml" filepath="$PROJECT_DIR$/6_远程服务/6_远程服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_本地服务/7_本地服务.iml" filepath="$PROJECT_DIR$/7_本地服务/7_本地服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_支付宝/8_支付宝.iml" filepath="$PROJECT_DIR$/8_支付宝/8_支付宝.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_斗地主/9_斗地主.iml" filepath="$PROJECT_DIR$/9_斗地主/9_斗地主.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day15.iml" filepath="$PROJECT_DIR$/Day15.iml" />
+    </modules>
+  </component>
+</project>
