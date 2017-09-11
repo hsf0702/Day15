@@ -7,5 +7,6 @@ public interface Iservice {
     void callPlayMusic();
     void callPauseMusic();
     void callContinueMusic();
+    void callPlaySeekPosition(int position);
 
 }
